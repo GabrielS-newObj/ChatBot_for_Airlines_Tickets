@@ -3,4 +3,4 @@
 It uses stdout as terminal 
 
 
-NOTE: this system just uses if-else to decide awnsers
+NOTE: this system just uses if-else to decide awnsers and was make for training client-server architecture
